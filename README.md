@@ -3,11 +3,16 @@ Tools and instruction for how to mod Space Marine 2
 
 **THESE INSTRUCTIONS ARE FOR LEGITIMATE MODDING PURPOSES ONLY. DO NOT USE THIS TO MAKE CHEATS FOR THE GAME. YOU ARE LIKELY TO BE REPORTED AND BANNED.**
 
-**Check out my mos on Nexus Mods!**
+**Check out my mods on Nexus Mods!**
+
 [Space Marine 2 Vortex Extension](https://www.nexusmods.com/site/mods/961)
+
 [Anti-Stutter for Space Marine 2](https://www.nexusmods.com/warhammer40000spacemarine2/mods/1)
+
 [Disable Screen FX](https://www.nexusmods.com/warhammer40000spacemarine2/mods/29)
+
 [Simple Armourty Unlocker](https://www.nexusmods.com/warhammer40000spacemarine2/mods/61?tab=posts)
+
 
 
 **INSTRUCTIONS**
