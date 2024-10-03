@@ -36,7 +36,7 @@ Steps:
 12. Select all the bytes for that file. The easiest way to do this is to make a bookmark that starts at the beginning of the file contents and ends at the byte just before the "PK" seperator.
 13. In the text file you modified, select all bytes and Copy them.
 14. Back in the pak file, use the "Fill" function to fill in the selected section (the file) with the bytes from the text file.
-15. Save your pak and install to the game!
+15. Save your pak file. Check again to verify that the bytes are the same for this modified pak file and the original. 
 
 These instructions are a bit brief right now, but will be fleshed out as I set aside time to improve them.
 
