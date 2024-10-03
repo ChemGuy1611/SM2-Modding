@@ -35,7 +35,7 @@ Steps:
 11. <img width="582" alt="Snap0175" src="https://github.com/user-attachments/assets/727fb4d6-5db2-48d3-84a0-f1559a85a8da">
 12. Select all the bytes for that file. The easiest way to do this is to make a bookmark that starts at the beginning of the file contents and ends at the byte just before the "PK" seperator.
 13. In the text file you modified, select all bytes and Copy them.
-14. Back in the pak file, use the "Fill" function to fill in the selected section (the file) with the bytes from the text file.
+14. Back in the pak file, use the "Fill" function to fill in the selected section (the file) with the bytes from the text file. Paste the bytes you copied into the dialogue popup.
 15. Save your pak file. Check again to verify that the bytes are the same for this modified pak file and the original.
 16. Done! Share your file on Nexus Mods so that others can enjoy it too!
 
