@@ -1,7 +1,7 @@
 # SM2-Modding
 Tools and instruction for how to mod Space Marine 2
 
-**THESE INSTRUCTIONS ARE FOR LEGITIMATE MODDING PURPOSES ONLY. DO NOT USE THIS TO MAKE CHEATS FOR THE GAME. YOU ARE LIKELY TO BE REPORTED AND BANNED.**
+**THESE INSTRUCTIONS ARE FOR LEGITIMATE MODDING PURPOSES ONLY. DO NOT USE THIS TO MAKE CHEATS FOR THE GAME. YOU WILL BE REPORTED AND BANNED.**
 
 **Check out my mods on Nexus Mods!**
 
@@ -21,7 +21,7 @@ First tool you need is [ImHex](https://github.com/WerWolv/ImHex). This allows yo
 When modding these files, you need to make sure that the byte size of the pak ends up being exactly the same as the original, with all files inside having the same size and CRC-32 value as well. This is easier than it sounds.
 
 
-Steps:
+**Steps:**
 1. Look through the pak files and find something you want to change. Easiest would be a value like a RGB color or some other numerical value.
 2. Extract the pak file with WinRAR or 7-zip to get the loose files.
 3. Edit the file(s) with the changes you want in a text editor.
