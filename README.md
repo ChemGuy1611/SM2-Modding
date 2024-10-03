@@ -14,7 +14,6 @@ Tools and instruction for how to mod Space Marine 2
 [Simple Armourty Unlocker](https://www.nexusmods.com/warhammer40000spacemarine2/mods/61?tab=posts)
 
 
-
 **INSTRUCTIONS**
 
 First tool you need is [ImHex](https://github.com/WerWolv/ImHex). This allows you to make direct hexidecimal edits to Space Marine 2 pak files. 
