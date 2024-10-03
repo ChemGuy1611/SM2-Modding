@@ -24,7 +24,7 @@ When modding these files, you need to make sure that the byte size of the pak en
 Steps:
 1. Look through the pak files and find something you want to change. Easiest would be a value like a RGB color or some other numerical value.
 2. Extract the pak file with WinRAR or 7-zip to get the loose files.
-3. Edit the file with the changes you want in a text editor.
+3. Edit the file(s) with the changes you want in a text editor.
 4. Check the byte size of the file. If you added or removed characters when making your edits, the file needs to be balanced out to reach the same final byte count. 
 5. If you need to add bytes to your file to make the size match, add a "//" comment to the end of the file and insert characters until you get the right size (each normal character is 1 byte).
 6. If you need to remove bytes to make your size match, try to remove text that was already inside a comment (//) or whitespace.
