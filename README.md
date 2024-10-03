@@ -41,4 +41,8 @@ Steps:
 
 These instructions are a bit brief right now, but will be fleshed out as I set aside time to improve them.
 
+If you would like to support my work and the free sharing of modding knowledge, you can do so below. Your support is greatly appreciated!
 
+[Buy Me a Coffee](https://buymeacoffee.com/chemboy1)
+
+[Join My Patreon](https://www.patreon.com/chemboy1)
