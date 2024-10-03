@@ -17,4 +17,10 @@ Steps:
 6. If you need to remove bytes to make your size match, try to remove text that was already inside a comment (//) or whitespace.
 7. Now, using ImHex, open both the original pak file and the text file(s) you modified.
 8. You need to locate the byte address for the file to be changed. You can search the file name to find it.
-9. Once you find the file, find the other end of the file. You can create a Bookmark to make it easy to find this later. 
+9. Once you find the file, find the other end of the file. You can create a Bookmark to make it easy to find this later.
+10. Select all the bytes for that file.
+11. In the text file you modified, select all bytes and Copy them.
+12. Back in the pak file, use the "Fill" function to fill in the selected section (the file) with the bytes from the new file.
+13. Save your pak and install to the game!
+
+These instructions are a bit brief right now, but will be fleshed out as I set aside time to improve them.
