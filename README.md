@@ -33,7 +33,7 @@ Steps:
 9. <img width="560" alt="Snap0176" src="https://github.com/user-attachments/assets/537e6236-de7b-49a2-85b1-ec90f3775521">
 10. Now find the end of the file contents. This will be the byte before "PK", which separates the files. Create a Bookmark to make it easy to find this later.
 11. <img width="582" alt="Snap0175" src="https://github.com/user-attachments/assets/727fb4d6-5db2-48d3-84a0-f1559a85a8da">
-12. Select all the bytes for that file. The easiest way to do this is to make a bookmark that starts at the beginning of the file contents and end at the byte just before the "PK" seperator.
+12. Select all the bytes for that file. The easiest way to do this is to make a bookmark that starts at the beginning of the file contents and ends at the byte just before the "PK" seperator.
 13. In the text file you modified, select all bytes and Copy them.
 14. Back in the pak file, use the "Fill" function to fill in the selected section (the file) with the bytes from the text file.
 15. Save your pak and install to the game!
