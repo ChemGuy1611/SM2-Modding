@@ -11,7 +11,7 @@ Tools and instruction for how to mod Space Marine 2
 
 [Disable Screen FX](https://www.nexusmods.com/warhammer40000spacemarine2/mods/29)
 
-[Simple Armourty Unlocker](https://www.nexusmods.com/warhammer40000spacemarine2/mods/61?tab=posts)
+[Simple Armor Unlocker](https://www.nexusmods.com/warhammer40000spacemarine2/mods/61?tab=posts)
 
 
 **INSTRUCTIONS**
