@@ -29,7 +29,7 @@ Steps:
 5. If you need to add bytes to your file to make the size match, add a "//" comment to the end of the file and insert characters until you get the right size (each normal character is 1 byte).
 6. If you need to remove bytes to make your size match, try to remove text that was already inside a comment (//) or whitespace.
 7. Now, using ImHex, open both the original pak file and the text file(s) you modified.
-8. You need to locate the byte address for the file(s) to be changed. You can "Search" the file name to find it. The starting byte to select is the one just after the file name.
+8. You need to locate the byte address for the contents of the file(s) to be changed. You can "Search" the file name to find it. The starting byte to select is the one just after the file name.
 9. <img width="560" alt="Snap0176" src="https://github.com/user-attachments/assets/537e6236-de7b-49a2-85b1-ec90f3775521">
 10. Once you find the file, find the other end of the file. The end of the file will be the byte before "PK", which separates the files. You can create a Bookmark to make it easy to find this later.
 11. <img width="582" alt="Snap0175" src="https://github.com/user-attachments/assets/727fb4d6-5db2-48d3-84a0-f1559a85a8da">
