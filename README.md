@@ -1,7 +1,16 @@
 # SM2-Modding
 Tools and instruction for how to mod Space Marine 2
 
-THESE INSTRUCTIONS ARE FOR LEGITIMATE MODDING PURPOSES ONLY. DO NOT USE THIS TO MAKE CHEATS FOR THE GAME. YOU ARE LIKELY TO BE REPORTED AND BANNED.
+**THESE INSTRUCTIONS ARE FOR LEGITIMATE MODDING PURPOSES ONLY. DO NOT USE THIS TO MAKE CHEATS FOR THE GAME. YOU ARE LIKELY TO BE REPORTED AND BANNED.**
+
+**Check out my mos on Nexus Mods!**
+[Space Marine 2 Vortex Extension](https://www.nexusmods.com/site/mods/961)
+[Anti-Stutter for Space Marine 2](https://www.nexusmods.com/warhammer40000spacemarine2/mods/1)
+[Disable Screen FX](https://www.nexusmods.com/warhammer40000spacemarine2/mods/29)
+[Simple Armourty Unlocker](https://www.nexusmods.com/warhammer40000spacemarine2/mods/61?tab=posts)
+
+
+**INSTRUCTIONS**
 
 First tool you need is [ImHex](https://github.com/WerWolv/ImHex). This allows you to make direct hexidecimal edits to Space Marine 2 pak files. 
 
@@ -24,3 +33,5 @@ Steps:
 13. Save your pak and install to the game!
 
 These instructions are a bit brief right now, but will be fleshed out as I set aside time to improve them.
+
+
