@@ -28,7 +28,7 @@ When modding these files, you need to make sure that the byte size of the pak en
 4. Check the byte size of the file by right-clicking on it and selecting "Properties". If you added or removed characters when making your edits, the file needs to be balanced out to reach the same final byte count. 
 5. If you need to add bytes to your file to make the size match, add a "//" comment to the end of the file and insert characters until you get the right size (each normal character is 1 byte).
 6. If you need to remove bytes to make your size match, try to remove text that was already inside a comment (//) or whitespace.
-7. The size of the modified files must be *EXACTYLY* the same as the original, down to the byte.
+7. The size of the modified files must be *EXACTLY* the same as the original, down to the byte.
 8. Now, using ImHex, open both the original pak file and the text file(s) you modified. Make a backup of the pak file in case you make a mistake and need to start over.
 9. In the pak file, you need to locate the byte address for the contents of the file(s) to be changed. You can "Search" the file name to find it. The starting byte to select is the one just after the file name. Create a Bookmark to make it easy to find this later.
 10. <img width="560" alt="Snap0176" src="https://github.com/user-attachments/assets/537e6236-de7b-49a2-85b1-ec90f3775521">
