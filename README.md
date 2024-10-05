@@ -22,7 +22,7 @@ When modding these files, you need to make sure that the byte size of the pak en
 
 
 **Steps:**
-1. Look through the pak files and find something you want to change. Easiest would be a value like a RGB color or some other numerical value.
+1. Look through the pak files and find something you want to change. The easiest would be a value like a RGB color or some other numerical value.
 2. Extract the pak file with WinRAR or 7-zip to get the loose files.
 3. Edit the file(s) with the changes you want in a text editor.
 4. Check the byte size of the file by right-clicking on it and selecting "Properties". If you added or removed characters when making your edits, the file needs to be balanced out to reach the same final byte count. 
@@ -31,11 +31,11 @@ When modding these files, you need to make sure that the byte size of the pak en
 7. The size of the modified files must be *EXACTLY* the same as the original, down to the byte.
 8. Now, using ImHex, open both the original pak file and the text file(s) you modified. Make a backup of the pak file in case you make a mistake and need to start over.
 10. In the pak file, you need to locate the byte address for the contents of the file(s) to be changed. You can "Search" the file name to find it. The starting byte to select is the one just after the file name. Create a Bookmark to make it easy to find this later.
-11. Note - When looking for the file, make sure you find the actual file contents, not the directory listing. You will know you are looking at the file contents because they have readable text in the ASCII column (for uncompressed files).
+11. **Note -** When looking for the file, make sure you find the actual file contents, not the directory listing. You will know you are looking at the file contents because they have readable text in the ASCII column (for uncompressed files).
 12. <img width="560" alt="Snap0176" src="https://github.com/user-attachments/assets/537e6236-de7b-49a2-85b1-ec90f3775521">
 13. Now find the end of the file contents. This will be the byte before "PK", which separates the files. Create a Bookmark to make it easy to find this later.
 14. <img width="582" alt="Snap0175" src="https://github.com/user-attachments/assets/727fb4d6-5db2-48d3-84a0-f1559a85a8da">
-15. Select all the bytes for the file contents. The easiest way to do this is to make a bookmark that starts at the beginning of the file contents and ends at the byte just before the "PK" seperator.
+15. Select all the bytes for the file contents. The easiest way to do this is to make a bookmark that starts at the beginning of the file contents (just after the file name) and ends at the byte just before the "PK" separator.
 16. In the text file you modified, select all bytes and Copy them.
 17. Back in the pak file, use the "Fill" function to fill in the selected section (the file) with the bytes from the text file. Paste the bytes you copied into the dialogue popup.
 18. Save your pak file. Check again to verify that the bytes are the same for this modified pak file and the original.
