@@ -38,8 +38,9 @@ When modding these files, you need to make sure that the byte size of the pak en
 15. Select all the bytes for the file contents. The easiest way to do this is to make a bookmark that starts at the beginning of the file contents (just after the file name) and ends at the byte just before the "PK" separator.
 16. In the text file you modified, select all bytes and Copy them.
 17. Back in the pak file, use the "Fill" function to fill in the selected section (the file) with the bytes from the text file. Paste the bytes you copied into the dialogue popup.
-18. Save your pak file. Check again to verify that the bytes are the same for this modified pak file and the original.
-19. Done! Share your file on Nexus Mods so that others can enjoy it too!
+18. Check the last few bytes of the file contents to make sure they are correct. If bytes are missing, you need to remove some characters from the modified file to get it to fit.
+19. Save your pak file.
+20. Done! Share your file on Nexus Mods so that others can enjoy it too!
 
 These instructions are a bit brief right now, but will be fleshed out as I set aside time to improve them.
 
