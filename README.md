@@ -45,7 +45,7 @@ When modding SM2 pak files, you need to make sure that the byte size of the pak 
 18. Check the last few bytes of the file contents to make sure they are correct. If bytes are missing, you need to remove some characters from the modified file to get it to fit.
 19. Save your pak file.
 20. Run the [PackCacher](https://www.nexusmods.com/warhammer40000spacemarine2/mods/65?tab=posts) mod to generate a .cache file for your new .pak file. This should be distributed with your .pak file if you share your mod.
-21. Done! Share your file on Nexus Mods so that others can enjoy it too!
+21. Done! Share your file on [Nexus Mods](https://www.nexusmods.com/warhammer40000spacemarine2/mods) so that others can enjoy it too!
 
 These instructions are a bit brief right now, but will be fleshed out as I set aside time to improve them.
 
