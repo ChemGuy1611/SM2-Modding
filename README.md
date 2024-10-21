@@ -17,9 +17,9 @@ Tools and instruction for how to mod Space Marine 2
 **INSTRUCTIONS**
 
 **Tools:**
-1. [ImHex](https://github.com/WerWolv/ImHex). This allows you to make direct hexidecimal edits to Space Marine 2 pak files.
-2. [CRC Manipulator](https://github.com/rr-/CRC-manipulator)
-3. [PackCacher](https://www.nexusmods.com/warhammer40000spacemarine2/mods/65?tab=posts)
+1. [ImHex](https://github.com/WerWolv/ImHex) - This allows you to make direct hexidecimal edits to Space Marine 2 pak files.
+2. [CRC Manipulator](https://github.com/rr-/CRC-manipulator) - Make individual files match CRC-32 values of the original.
+3. [PackCacher](https://www.nexusmods.com/warhammer40000spacemarine2/mods/65?tab=posts) - Generate new cache files for modified paks.
 
 When modding SM2 pak files, you need to make sure that the byte size of the pak ends up being exactly the same as the original, with all files inside having the same size and CRC-32 value as well. You also need to generate new cache file for your modified pak. This is easier than it sounds.
 
