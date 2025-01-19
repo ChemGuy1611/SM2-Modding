@@ -7,8 +7,6 @@ Tools and instruction for how to mod Space Marine 2
 
 [Space Marine 2 Vortex Extension](https://www.nexusmods.com/site/mods/961)
 
-[Anti-Stutter for Space Marine 2](https://www.nexusmods.com/warhammer40000spacemarine2/mods/1)
-
 [Disable Screen FX](https://www.nexusmods.com/warhammer40000spacemarine2/mods/29)
 
 [Simple Armor Unlocker](https://www.nexusmods.com/warhammer40000spacemarine2/mods/61?tab=posts)
