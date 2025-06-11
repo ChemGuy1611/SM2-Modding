@@ -1,7 +1,6 @@
 # SM2-Modding
 
-**These instructions are essentially obsolete after Space Marine 2 game version 7.0.
-**
+**These instructions are essentially obsolete after Space Marine 2 game version 7.0.**
 
 Tools and instruction for how to mod Space Marine 2
 
